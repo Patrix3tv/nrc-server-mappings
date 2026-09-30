@@ -1,0 +1,16 @@
+{
+  "server-address": ["smp.patrix3.de", "patrix.moinmeister3751.de"],
+  "pretty-name": "Network's SMP",
+  "categorys": ["SURVIVAL", "VANILLA", "BUILD"],
+  "assets": {
+    "icon": "./icon.png",
+    "background": "./bg.png"
+  }
+}
+
+{
+  "socials": {
+    "website": "https://network.patrix3.de",
+    "discord": "https://discord.gg/B7AbzJnxVx"
+  }
+}
